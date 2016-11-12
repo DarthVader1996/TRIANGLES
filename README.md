@@ -4,9 +4,9 @@ This is a fun project I made that simply draws triangle objects on the screen of
 
 ## USAGE
 
-`bash` python triangles.py n symbol `bash`
+`python triangles.py n symbol`
 
-where `bash`n `bash` is the size of the triangle
-and `bash`symbol`bash`is a string of symbols or symbol that you wish the triangle to be composed of.
+where `n` is the size of the triangle
+and `symbol`is a string of symbols or symbol that you wish the triangle to be composed of.
 
 SEND DONATIONS TO MY PATERON!
